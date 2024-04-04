@@ -4,12 +4,17 @@
 
 
 <div align=center>
-  <img src="https://github.com/dashuai2ml/magic-bee/blob/main/other/bee.png"></img>
+  <img src="https://github.com/dashuai2ml/magic-bee/blob/main/other/bee.png?raw=true"></img>
 </div>
 
-magic-bee is an Arduino project aimed at creating a personalized full-color dot matrix pixel screen. It utilizes the ESP32-S3 DevKitC-1 as the main controller and relies on the ESP32-HUB75-MatrixPanel-I2S-DMA C++ library for functionality.
+**Magic-Bee** is an Arduino project aimed at creating a personalized full-color dot matrix pixel screen. It utilizes the ESP32-S3 DevKitC-1 as the main controller and relies on the ESP32-HUB75-MatrixPanel-I2S-DMA C++ library for functionality.
 
 [![](https://github.com/dashuai2ml/magic-bee/blob/main/other/video.png)](//player.bilibili.com/player.html?aid=1852694718&bvid=BV1up421y7LA&cid=1493747455&p=1)
+
+<img src="https://github.com/dashuai2ml/magic-bee/blob/main/gifs/man.gif?raw=true"></img>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/dashuai2ml/magic-bee/blob/main/gifs/chifan.gif?raw=true"></img>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/dashuai2ml/magic-bee/blob/main/gifs/kun.gif?raw=true"></img>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/dashuai2ml/magic-bee/blob/main/gifs/laoluo.gif?raw=true"></img>
 
 
 ## Features
@@ -26,7 +31,8 @@ magic-bee is an Arduino project aimed at creating a personalized full-color dot 
 
 ## Pin Definitions
 
-![](https://github.com/dashuai2ml/magic-bee/blob/main/doc/%E5%BC%95%E8%84%9A.png)
+![](https://github.com/dashuai2ml/magic-bee/blob/main/doc/ESP32-S3_DevKitC-1_pinlayout_v1.1.jpg?raw=true)
+
 
     /**** HUB75 GPIO mapping ****/
     // GPIO 34+ are on the ESP32 are input only!!
