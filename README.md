@@ -1,30 +1,30 @@
 # Magic-Bee
 
+![](https://img.shields.io/badge/Language-C++-brightgreen) ![](https://img.shields.io/badge/License-MIT-orange)
+
+
 <div align=center>
   <img src="https://github.com/dashuai2ml/magic-bee/blob/main/other/bee.png"></img>
 </div>
-
-![](https://img.shields.io/badge/Language-C++-brightgreen) ![](https://img.shields.io/badge/License-MIT-orange)
-
 
 magic-bee is an Arduino project aimed at creating a personalized full-color dot matrix pixel screen. It utilizes the ESP32-S3 DevKitC-1 as the main controller and relies on the ESP32-HUB75-MatrixPanel-I2S-DMA C++ library for functionality.
 
 [![](https://github.com/dashuai2ml/magic-bee/blob/main/other/video.png)](//player.bilibili.com/player.html?aid=1852694718&bvid=BV1up421y7LA&cid=1493747455&p=1)
 
 
-Features
+## Features
 
 * Personalized full-color dot matrix pixel screen
 * Utilizes ESP32-S3 DevKitC-1 as the main controller
 * Relies on ESP32-HUB75-MatrixPanel-I2S-DMA C++ library
 
 
-Usage
+## Usage
 
 	1.Define the pin configurations for the display screen and SD card in your Arduino sketch.
 	2.Use the provided functions and methods to interact with the screen and SD card.
 
-Pin Definitions
+## Pin Definitions
 
 ![](https://github.com/dashuai2ml/magic-bee/blob/main/doc/%E5%BC%95%E8%84%9A.png)
 
@@ -56,6 +56,6 @@ Pin Definitions
     #define CLK_PIN         12
 
 
-License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
