@@ -9,29 +9,20 @@
 
 magic-bee is an Arduino project aimed at creating a personalized full-color dot matrix pixel screen. It utilizes the ESP32-S3 DevKitC-1 as the main controller and relies on the ESP32-HUB75-MatrixPanel-I2S-DMA C++ library for functionality.
 
-<iframe 
-src="https://www.bilibili.com/video/BV1up421y7LA/?spm_id_from=333.999.0.0&vd_source=ec75cd72de44d1ef73bd3ec0b17265c7" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
+[![](https://github.com/dashuai2ml/magic-bee/blob/main/other/video.png)](//player.bilibili.com/player.html?aid=1852694718&bvid=BV1up421y7LA&cid=1493747455&p=1)
 
 
 Features
 
-	•	Personalized full-color dot matrix pixel screen
-	•	Utilizes ESP32-S3 DevKitC-1 as the main controller
-	•	Relies on ESP32-HUB75-MatrixPanel-I2S-DMA C++ library
+* Personalized full-color dot matrix pixel screen
+* Utilizes ESP32-S3 DevKitC-1 as the main controller
+* Relies on ESP32-HUB75-MatrixPanel-I2S-DMA C++ library
 
 
 Usage
 
-	1.	Define the pin configurations for the display screen and SD card in your Arduino sketch.
-	2.	Use the provided functions and methods to interact with the screen and SD card.
+	1.Define the pin configurations for the display screen and SD card in your Arduino sketch.
+	2.Use the provided functions and methods to interact with the screen and SD card.
 
 Pin Definitions
 
