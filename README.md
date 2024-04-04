@@ -9,12 +9,13 @@
 
 **Magic-Bee** is an Arduino project aimed at creating a personalized full-color dot matrix pixel screen. It utilizes the ESP32-S3 DevKitC-1 as the main controller and relies on the ESP32-HUB75-MatrixPanel-I2S-DMA C++ library for functionality.
 
-[![](https://github.com/dashuai2ml/magic-bee/blob/main/other/video.png)](//player.bilibili.com/player.html?aid=1852694718&bvid=BV1up421y7LA&cid=1493747455&p=1)
-
 <img src="https://github.com/dashuai2ml/magic-bee/blob/main/gifs/man.gif?raw=true"></img>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/dashuai2ml/magic-bee/blob/main/gifs/chifan.gif?raw=true"></img>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/dashuai2ml/magic-bee/blob/main/gifs/kun.gif?raw=true"></img>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/dashuai2ml/magic-bee/blob/main/gifs/laoluo.gif?raw=true"></img>
+
+
+[![](https://github.com/dashuai2ml/magic-bee/blob/main/other/video.png)](//player.bilibili.com/player.html?aid=1852694718&bvid=BV1up421y7LA&cid=1493747455&p=1)
 
 
 ## Features
